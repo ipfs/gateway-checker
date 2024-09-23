@@ -128,7 +128,7 @@
     "browserslist": "^4.23.0",
     "check-aegir-project": "^1.1.1",
     "cp-cli": "^2.0.0",
-    "eslint-config-ipfs": "^6.0.1",
+    "eslint-config-ipfs": "^7.0.6",
     "eslint-plugin-compat": "^6.0.0",
     "fetch-ponyfill": "^7.1.0",
     "ipfs-geoip": "^9.1.0",
