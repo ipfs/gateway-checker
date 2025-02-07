@@ -129,7 +129,7 @@
     "check-aegir-project": "^1.1.1",
     "cp-cli": "^2.0.0",
     "eslint-config-ipfs": "^6.0.1",
-    "eslint-plugin-compat": "^6.0.0",
+    "eslint-plugin-compat": "^6.0.2",
     "fetch-ponyfill": "^7.1.0",
     "ipfs-geoip": "^9.1.0",
     "js-beautify": "^1.15.1",
