@@ -136,7 +136,7 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.4.4",
     "workbox-build": "7.0.0",
-    "workbox-window": "7.0.0",
+    "workbox-window": "7.3.0",
     "zod": "^3.22.2"
   },
   "aegir": {
