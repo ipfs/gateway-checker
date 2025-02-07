@@ -131,7 +131,7 @@
     "eslint-config-ipfs": "^6.0.1",
     "eslint-plugin-compat": "^6.0.0",
     "fetch-ponyfill": "^7.1.0",
-    "ipfs-geoip": "^9.1.0",
+    "ipfs-geoip": "^9.1.1",
     "js-beautify": "^1.15.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.4",
