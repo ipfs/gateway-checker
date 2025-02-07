@@ -134,7 +134,7 @@
     "ipfs-geoip": "^9.1.0",
     "js-beautify": "^1.15.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.4",
+    "typescript": "^5.7.3",
     "workbox-build": "7.0.0",
     "workbox-window": "7.0.0",
     "zod": "^3.22.2"
